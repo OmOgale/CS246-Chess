@@ -25,5 +25,8 @@
     <li>We also accounted for moves such as <b>en-passant</b> and <b>castling</b> which we have incorporated so that the AI can use such special moves fruitfully too.</li>
   </ul>
   <h2 align="left">Text Display</h2>
+  <img src="/assets/td1.png" />
   <h2 align="left">Graphical Display</h2>
+    <img src="/assets/gd1.png" />
+    <img src="/assets/gd2.png" />
 </div>
